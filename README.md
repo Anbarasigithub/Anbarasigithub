@@ -1,3 +1,4 @@
+- Passionate software with a strong foundation in programming and problem-solving.
 - 👋 Hi, I’m @Anbarasigithub
 - 👀 I’m interested in web developer 
 - 🌱 I’m currently learning c
