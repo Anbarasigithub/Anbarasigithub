@@ -1,11 +1,10 @@
 - Passionate software with a strong foundation in programming and problem-solving.
-🔭 Here's my https://anbarasi-sakthivel.netlify.app/
-🌱 I’m currently learning DSA
-👯 I’m looking to collaborate on Data Science and Web Development.
-🤔 I’m looking for help with Placements.
-💬 Ask me about Tech
+- 🔭 Here's my https://anbarasi-sakthivel.netlify.app/
+- 🌱 I’m currently learning DSA
+- 👯 I’m looking to collaborate on Data Science and Web Development.
+- 🤔 I’m looking for help with Placements.
+- 💬 Ask me about Tech
           
-😄 Pronouns: Techie
 ⚡ Fun fact: Code explorer.
 
 <!---
